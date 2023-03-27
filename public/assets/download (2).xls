@@ -1,0 +1,171 @@
+<table border='2px'><tr bgcolor='#87AFC6'><th class="sorting_asc" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-sort="ascending" aria-label="-: activate to sort column descending" style="width: 13px;">-</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Id: activate to sort column ascending" style="width: 22px;">Id</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Date_Logged: activate to sort column ascending" style="width: 134px;">Date_Logged</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Ticket_Id: activate to sort column ascending" style="width: 80px;">Ticket_Id</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Incident_Summary: activate to sort column ascending" style="width: 184px;">Incident_Summary</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Incident_Details: activate to sort column ascending">Incident_Details</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Person_Affected: activate to sort column ascending">Person_Affected</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Comments: activate to sort column ascending">Comments</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Assigned_To: activate to sort column ascending" style="width: 112px;">Assigned_To</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Bau/Project: activate to sort column ascending" style="width: 95px;">Bau/Project</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Affected_Area: activate to sort column ascending" style="width: 112px;">Affected_Area</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Urgency: activate to sort column ascending" style="width: 69px;">Urgency</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Days_Pending: activate to sort column ascending" style="width: 112px;">Days_Pending</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Status: activate to sort column ascending" style="width: 56px;">Status</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Resolution_Details: activate to sort column ascending">Resolution_Details</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Resolved Date: activate to sort column ascending">Resolved Date</th></tr>
+												<td class="sorting_1"> </td>
+	                                        	<td> 1</td>
+												<td style="width:150px;">2023-03-14 09:58:34</td>
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007717');"><u style="color:blue;width:100px;">IN00007717</u></a></td>
+												
+	                                        	<td style="width:200px;">RESOLUTION TYPE IN EXCEL EXTRACT.</td>
+	                                        	<td style="width:200px;display:none">Add the resolution type to the excel as a column in the excel file that has been spooled.</td>
+	                                        	<td style="width:200px;display:none">Joshua Amarfio</td>
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 *****  ***** Reply From Nii Ayi : for your  attention  [Date Posted] :2023-03-14 17:05:06  ********COMMENT 2 *****  ***** Reply From SAMUEL : Joshua . have a look at this request.  [Date Posted] :2023-03-14 17:21:16  ********COMMENT 3 *****  ***** Reply From Helpdesk : completed on the 195 enivronment, will be implemented on the live environment asap after the change has been raised.  [Date Posted] :2023-03-15 08:06:28</td>
+	                                        	
+												<td><font color="green">Joshua Armarfio</font></td>
+												<td>BAU</td>
+												<td>Others</td>
+												
+												
+												<td>3</td>
+												
+											
+	                                        	<td><font color="blue">1 days</font></td>
+													
+														<td><font color="blue">WIP</font></td>
+															<td style="display:none;"></td>
+															<td style="width:200px;display:none"></td>
+	                                        </tr>
+												<td class="sorting_1"> </td>
+	                                        	<td> 2</td>
+												<td style="width:150px;">2023-02-22 15:43:51</td>
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007636');"><u style="color:blue;width:100px;">IN00007636</u></a></td>
+												
+	                                        	<td style="width:200px;">SEARCH PARAMETER FOR DEPARTMENT</td>
+	                                        	<td style="width:200px;display:none">Issues Management needs a search parameter for department.</td>
+	                                        	<td style="width:200px;display:none">Issues Management</td>
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 *****  ***** Reply From Naa Adoley : A search parameter for all departments is needed.  [Date Posted] :2023-02-22 15:47:20  ********COMMENT 2 *****  ***** Reply From SAMUEL : Joshua for you attention. these are projects. I expect to get a mail for project created.  [Date Posted] :2023-02-23 10:56:23  ********COMMENT 3 *****  ***** Reply From Joshua : Mr. Bandoh please a project has already been created and pending approval.  [Date Posted] :2023-03-03 16:25:56</td>
+	                                        	
+												<td><font color="green">Joshua Armarfio</font></td>
+												<td>BAU</td>
+												<td>Others</td>
+												
+												
+												<td>3</td>
+												
+											
+	                                        	<td><font color="blue">21 days</font></td>
+													
+														<td><font color="blue">WIP</font></td>
+															<td style="display:none;"></td>
+															<td style="width:200px;display:none"></td>
+	                                        </tr>
+												<td class="sorting_1"> </td>
+	                                        	<td> 3</td>
+												<td style="width:150px;">2023-02-21 18:04:38</td>
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007630');"><u style="color:blue;width:100px;">IN00007630</u></a></td>
+												
+	                                        	<td style="width:200px;">START AND END DAT OPTIONS</td>
+	                                        	<td style="width:200px;display:none">A field is needed to set start and end date to resolve issues logged.</td>
+	                                        	<td style="width:200px;display:none">Issues Team</td>
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 *****  ***** Reply From Naa Adoley : Hello Enterprise Solution, for your attention.  [Date Posted] :2023-02-21 18:06:23  ********COMMENT 2 *****  ***** Reply From Joshua : work starting asap  [Date Posted] :2023-02-22 08:31:37</td>
+	                                        	
+												<td><font color="green">Joshua Armarfio</font></td>
+												<td>BAU</td>
+												<td>Others</td>
+												
+												
+												<td>3</td>
+												
+											
+	                                        	<td><font color="blue">22 days</font></td>
+													
+														<td><font color="blue">WIP</font></td>
+															<td style="display:none;"></td>
+															<td style="width:200px;display:none"></td>
+	                                        </tr>
+												<td class="sorting_1"> </td>
+	                                        	<td> 4</td>
+												<td style="width:150px;">2023-02-21 18:00:16</td>
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007629');"><u style="color:blue;width:100px;">IN00007629</u></a></td>
+												
+	                                        	<td style="width:200px;">E-MAIL OPTION</td>
+	                                        	<td style="width:200px;display:none">There is the need to be able to add an additional e-mail address during update .</td>
+	                                        	<td style="width:200px;display:none">Issues Management Team</td>
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 *****  ***** Reply From Naa Adoley : Hello Enterprise Solutions, for your attention.  [Date Posted] :2023-02-21 18:07:25  ********COMMENT 2 *****  ***** Reply From Joshua : need a bit clarity on this please. coz you can add the email as a text in your comment unless perhaps you need it on input box.  [Date Posted] :2023-02-22 02:57:01</td>
+	                                        	
+												<td><font color="green">Joshua Armarfio</font></td>
+												<td>BAU</td>
+												<td>Others</td>
+												
+												
+												<td>3</td>
+												
+											
+	                                        	<td><font color="blue">22 days</font></td>
+													
+														<td><font color="blue">WIP</font></td>
+															<td style="display:none;"></td>
+															<td style="width:200px;display:none"></td>
+	                                        </tr>
+												<td class="sorting_1"> </td>
+	                                        	<td> 5</td>
+												<td style="width:150px;">2023-02-21 17:46:00</td>
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007627');"><u style="color:blue;width:100px;">IN00007627</u></a></td>
+												
+	                                        	<td style="width:200px;">ATTACH DOCUMENT</td>
+	                                        	<td style="width:200px;display:none">There should an option to attach a document in every update in the issue logger</td>
+	                                        	<td style="width:200px;display:none">Naa Adoley Allotey</td>
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 *****  ***** Reply From Naa Adoley : Hello Enterprise Solutions, for your attention.  [Date Posted] :2023-02-21 18:09:13  ********COMMENT 2 *****  ***** Reply From Joshua : well noted  [Date Posted] :2023-02-22 02:58:14</td>
+	                                        	
+												<td><font color="green">Joshua Armarfio</font></td>
+												<td>BAU</td>
+												<td>Others</td>
+												
+												
+												<td>3</td>
+												
+											
+	                                        	<td><font color="blue">22 days</font></td>
+													
+														<td><font color="blue">WIP</font></td>
+															<td style="display:none;"></td>
+															<td style="width:200px;display:none"></td>
+	                                        </tr>
+												<td class="sorting_1"> </td>
+	                                        	<td> 6</td>
+												<td style="width:150px;">2023-02-21 16:34:51</td>
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007624');"><u style="color:blue;width:100px;">IN00007624</u></a></td>
+												
+	                                        	<td style="width:200px;">ASSIGN ISSUES TO CUSTOMER(CLIENTS)</td>
+	                                        	<td style="width:200px;display:none">Users of the Issues  logger should be able to assigns issues to client when clarity or information is needed.</td>
+	                                        	<td style="width:200px;display:none">Naa Adoley Allotey</td>
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 *****  ***** Reply From Joshua : Well noted  [Date Posted] :2023-02-21 16:36:05  ********COMMENT 2 *****  ***** Reply From Joshua : completed and under going test by the testing team  [Date Posted] :2023-02-28 14:47:16  ********COMMENT 3 *****  ***** Reply From Joshua : check it again  [Date Posted] :2023-03-07 18:45:03</td>
+	                                        	
+												<td><font color="green">Joshua Armarfio</font></td>
+												<td>BAU</td>
+												<td>Others</td>
+												
+												
+												<td>3</td>
+												
+											
+	                                        	<td><font color="blue">22 days</font></td>
+													
+														<td><font color="blue">WIP</font></td>
+															<td style="display:none;"></td>
+															<td style="width:200px;display:none"></td>
+	                                        </tr>
+												<td class="sorting_1"> </td>
+	                                        	<td> 7</td>
+												<td style="width:150px;">2022-09-08 09:18:48</td>
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00006944');"><u style="color:blue;width:100px;">IN00006944</u></a></td>
+												
+	                                        	<td style="width:200px;">UNABLE TO PERFORM PREMATURE REDEMPTION</td>
+	                                        	<td style="width:200px;display:none">Unable to perform Premature redemption
+
+error message ORA-01422, please see the attached.</td>
+	                                        	<td style="width:200px;display:none">Mohamed Bah</td>
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 *****  ***** Reply From Helpdesk : Nii, kindly help.  [Date Posted] :2022-09-08 09:22:44  ********COMMENT 2 *****  ***** Reply From Samuel Adjetey : Issue is being worked.  [Date Posted] :2022-10-06 11:52:13</td>
+	                                        	
+												<td><font color="green">Nii Ayi Welbeck</font></td>
+												<td>BAU</td>
+												<td>Treasury Bills</td>
+												
+												
+												<td>3</td>
+												
+											
+	                                        	<td><font color="blue">189 days</font></td>
+													
+														<td><font color="blue">WIP</font></td>
+															<td style="display:none;"></td>
+															<td style="width:200px;display:none"></td>
+	                                        </tr></table>

@@ -1,0 +1,645 @@
+<table border='2px'><tr bgcolor='#87AFC6'><th class="sorting_asc" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Id: activate to sort column descending" style="width: 12px;">Id</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Date_Logged: activate to sort column ascending" style="width: 91px;">Date_Logged</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Ticket_Id: activate to sort column ascending" style="width: 60px;">Ticket_Id</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Incident_Summary: activate to sort column ascending" style="width: 128px;">Incident_Summary</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Incident_Details: activate to sort column ascending">Incident_Details</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Person_Affected: activate to sort column ascending">Person_Affected</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Comment: activate to sort column ascending">Comment</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Assigned_To: activate to sort column ascending" style="width: 79px;">Assigned_To</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Dept Assigned To: activate to sort column ascending" style="width: 57px;">Dept Assigned To</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Logged By: activate to sort column ascending" style="width: 66px;">Logged By</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Bau/Project: activate to sort column ascending" style="width: 73px;">Bau/Project</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Affected_Area: activate to sort column ascending" style="width: 86px;">Affected_Area</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Severity: activate to sort column ascending" style="width: 49px;">Severity</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Client_Name: activate to sort column ascending" style="width: 78px;">Client_Name</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Days_Pending: activate to sort column ascending" style="width: 87px;">Days_Pending</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Status: activate to sort column ascending" style="width: 51px;">Status</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Resolution_Type: activate to sort column ascending">Resolution_Type</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Resolution_Details: activate to sort column ascending">Resolution_Details</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Resolved_Date: activate to sort column ascending">Resolved_Date</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Root_Cause: activate to sort column ascending">Root_Cause</th></tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 1 </td>
+
+												<td style="width:150px;">2023-03-15 15:27:25</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007733');"><u style="color:blue;width:100px;">IN00007733</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">ERROR IN DEALING WITH ITAS</td>
+
+	                                        	<td style="width:200px;display:none">Good afternoon team, we noticed error message in dealing with ITAS
+
+AMT NLE6,048
+TIN1000443736
+PRN 00000000142926</td>
+
+	                                        	<td style="width:200px;display:none">Amadu Dumbuya</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Naa Adoley : Hello Mobile Solutions, FYA  [Date Posted] :2023-03-15 15:47:54</td>
+
+
+
+												<td><font color="green">Daniel Nii Ayi Hammond</font></td>
+												<td><font color="green">Mobile Solutions</font></td>
+
+												<td>SILLAH</td>
+
+												<td>BAU</td>
+
+												<td>Others</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIERRA LEONE COMMERCIAL BANK</td>
+
+												<td><font color="red">-</font></td>
+
+
+
+														<td><font color="green">RESOLVED</font></td>
+
+                                                            <td style="width:200px;display:none">Refer to resolution details</td>
+															<td style="width:200px;display:none">I noticed that few tellers normally encountered this NRA issue while posting transactions through the NRA portal especially for Siaka Stevens Street tellers MARIAN AN D BRIDGET now this thing has been a daily issue from the two tellers</td>
+
+															<td style="width:200px;display:none">2023-03-15 16:53:36</td>
+
+															<td style="width:200px;display:none">NRA transactions was posted using the NRA portal and didn	 reflected on the tellers float account but reflected to NRA</td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 2 </td>
+
+												<td style="width:150px;">2023-03-15 11:39:59</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007729');"><u style="color:blue;width:100px;">IN00007729</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">BULCK API</td>
+
+	                                        	<td style="width:200px;display:none">We refer to the above subject and and note that SL Brewery Ltd and World Hope International have both complained about the payment service not operating well when they are trying to do bulk payment to various vendors or customers.
+They cited that their accounts are not debited ,while  on the corporate internet platform, payment will register as successful.
+They have complained about the mistrust that clients would place on this particular mode of payment if it continues to operate in this manner. It will also have a negative effect on the product which we are trying to market.
+We trust this issue will be thoroughly investigated and should be restored to normalcy as soon as possible.
+--</td>
+
+	                                        	<td style="width:200px;display:none">2</td>
+
+	                                        	<td style="width:200px;display:none"></td>
+
+
+
+												<td><font color="green">Nii Ayi Welbeck</font></td>
+												<td><font color="red">Not Assigned</font></td>
+
+												<td>Ralp Taylor Smith</td>
+
+												<td>BAU</td>
+
+												<td>Remittance</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>Rokel Commercial Bank</td>
+
+												<td><font color="red">-</font></td>
+
+
+
+														<td><font color="green">RESOLVED</font></td>
+
+                                                            <td style="width:200px;display:none">Advise/Education</td>
+															<td style="width:200px;display:none">THE PROCEDURE AND SCHELDE JUB WAS RECOMPLIED</td>
+
+															<td style="width:200px;display:none">2023-03-15 15:25:33</td>
+
+															<td style="width:200px;display:none">We refer to the above subject and and note that SL Brewery Ltd and World Hope International have both complained about the payment service not operating well when they are trying to do bulk payment to various vendors or customers.
+They cited that their accounts are not debited ,while  on the corporate internet platform, payment will register as successful.
+They have complained about the mistrust that clients would place on this particular mode of payment if it continues to operate in this manner. It will also have a negative effect on the product which we are trying to market.
+We trust this issue will be thoroughly investigated and should be restored to normalcy as soon as possible.
+--</td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 3 </td>
+
+												<td style="width:150px;">2023-03-14 17:53:07</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007724');"><u style="color:blue;width:100px;">IN00007724</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">UNABLE TO POST CHEQUES -BACK OFFICE OPERATOR</td>
+
+	                                        	<td style="width:200px;display:none">We write to inform you that our back office operator Aminata Lawal cannot process both in-house and other bank cheques. This is causing a severe delay in processing customers deposits.&nbsp;
+We have engaged ICT and the relevant Units, but we are yet to get a positive result.</td>
+
+	                                        	<td style="width:200px;display:none">Saidu T. Kargbo</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Samuel Adjetey : PLease investigate.  [Date Posted] :2023-03-15 07:09:12  ********COMMENT 2 ***** Reply From Momoh : See the user ID 001568  [Date Posted] :2023-03-15 08:53:02  ********COMMENT 3 ***** Reply From Momoh : See correction for the user ID 001468  [Date Posted] :2023-03-15 08:59:25</td>
+
+
+
+												<td><font color="green">Nii Ayi Welbeck</font></td>
+												<td><font color="green">Issues management</font></td>
+
+												<td>Mr Momoh Konneh</td>
+
+												<td>BAU</td>
+
+												<td>Back Office</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIERRA LEONE COMMERCIAL BANK</td>
+
+												<td><font color="red">-</font></td>
+
+
+
+														<td><font color="green">RESOLVED</font></td>
+
+                                                            <td style="width:200px;display:none">Refer to resolution details</td>
+															<td style="width:200px;display:none">Operator profile approval right set as NO and allow to scan voucher set as NO which enable the operator from posting cheques</td>
+
+															<td style="width:200px;display:none">2023-03-15 10:55:00</td>
+
+															<td style="width:200px;display:none">UNABLE TO POST CHEQUES -BACK OFFICE OPERATOR</td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 4 </td>
+
+												<td style="width:150px;">2023-03-14 16:54:46</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007723');"><u style="color:blue;width:100px;">IN00007723</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">TRADE FINANCE ISSUES</td>
+
+	                                        	<td style="width:200px;display:none">Plesae be informed that we are faced with two issues that requires urgent attention
+
+We note that X100R20 did not show charges for the transaction when booking itt in the system, we onlysaw contingent entries.&nbsp;
+1. Transaction details
+Customer name: Okentu logistics
+Account no: &nbsp; &nbsp; &nbsp; &nbsp; 123128
+Product: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Performance Bond&nbsp;
+Reference: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PBOD230303000006
+Amount:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SLE 221,747.80
+
+Trade Finance approver is unable to view and approve Letter of Credit with details below that was booked by input staff
+2. Transaction details
+Customer name: HDF
+Account no: &nbsp; &nbsp; &nbsp; &nbsp; 113261
+Product: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Letter of Credit&nbsp;
+Reference: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; IMLC230310000001
+Amount: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; USD 71,200.00</td>
+
+	                                        	<td style="width:200px;display:none">Ishmaela P. Macauley</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Samuel Adjetey : Please investigate  [Date Posted] :2023-03-15 07:08:29</td>
+
+
+
+												<td><font color="green">Nii Ayi Welbeck</font></td>
+												<td><font color="green">Issues management</font></td>
+
+												<td>Mr Momoh Konneh</td>
+
+												<td>BAU</td>
+
+												<td>Back Office</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIERRA LEONE COMMERCIAL BANK</td>
+
+												<td><font color="red">-</font></td>
+
+
+
+														<td><font color="green">RESOLVED</font></td>
+
+                                                            <td style="width:200px;display:none">Advise/Education</td>
+															<td style="width:200px;display:none">Type of fee column was set as null instead of amount or percent while waving the concession for this customer</td>
+
+															<td style="width:200px;display:none">2023-03-15 14:26:00</td>
+
+															<td style="width:200px;display:none">We note that X100R20 did not show charges for the transaction when booking itt in the system, we only saw contingent entries.</td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 5 </td>
+
+												<td style="width:150px;">2023-03-14 15:39:46</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007722');"><u style="color:blue;width:100px;">IN00007722</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">ERROR NOTICED IN DEALING WITH ITAS</td>
+
+	                                        	<td style="width:200px;display:none">we noticed error message in dealing with ITAS
+
+AMT NLE45,099.13
+TIN1000088618
+PRN 00000000142321</td>
+
+	                                        	<td style="width:200px;display:none">Mr dumbuya</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Samuel Adjetey : Please assist  [Date Posted] :2023-03-15 07:07:24</td>
+
+
+
+												<td><font color="green">Daniel Nii Ayi Hammond</font></td>
+												<td><font color="green">Mobile Solutions</font></td>
+
+												<td>Mr Momoh Konneh</td>
+
+												<td>BAU</td>
+
+												<td>Back Office</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIERRA LEONE COMMERCIAL BANK</td>
+
+												<td><font color="red">-</font></td>
+
+
+
+														<td><font color="green">RESOLVED</font></td>
+
+                                                            <td style="width:200px;display:none">Refer to resolution details</td>
+															<td style="width:200px;display:none">I noticed that few tellers normally encountered this NRA issue while posting transactions through the NRA portal especially for Siaka Stevens Street tellers MARIAN AN D BRIDGET now this thing has been a daily issue from the two tellers</td>
+
+															<td style="width:200px;display:none">2023-03-15 10:46:46</td>
+
+															<td style="width:200px;display:none">NRA transactions was posted using the NRA portal and didn	 reflected on the tellers float account but reflected to NRA</td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 6 </td>
+
+												<td style="width:150px;">2023-03-14 14:39:39</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007721');"><u style="color:blue;width:100px;">IN00007721</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">TELLERS ARE GETTING AN ERROR WHEN TRYING TO DEPOSIT INTO AN ACCOUNT NAMED DESTINE PETROLEUM.</td>
+
+	                                        	<td style="width:200px;display:none">When the tellers try to deposit into Destine Petroleums account, an error message pops up and the X100 application closes immediately. Even if you try to do an inquiry on the account, the X100 application closes.</td>
+
+	                                        	<td style="width:200px;display:none">Tellers</td>
+
+	                                        	<td style="width:200px;display:none"></td>
+
+
+
+												<td><font color="green">Samuel A. Anang</font></td>
+												<td><font color="red">Not Assigned</font></td>
+
+												<td>Robert Williams</td>
+
+												<td>BAU</td>
+
+												<td>Others</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIB Bank Liberia</td>
+
+												<td><font color="red">-</font></td>
+
+
+
+														<td><font color="green">RESOLVED</font></td>
+
+                                                            <td style="width:200px;display:none">Refer to resolution details</td>
+															<td style="width:200px;display:none">Cleared one of the existing unexpired running notes.</td>
+
+															<td style="width:200px;display:none">2023-03-15 12:19:27</td>
+
+															<td style="width:200px;display:none">When the tellers try to deposit into Destine Petroleums account, an error message pops up and the X100 application closes immediately. Even if you try to do an inquiry on the account, the X100 application closes.</td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 7 </td>
+
+												<td style="width:150px;">2023-03-14 13:28:47</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007719');"><u style="color:blue;width:100px;">IN00007719</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">MOBILE APP USER LOGIN ERROR</td>
+
+	                                        	<td style="width:200px;display:none">The customer was setup on the Mobile App and he changed password the system still displayed wrong password;
+Customers details
+Account:942795
+Customer ID: Sala488480</td>
+
+	                                        	<td style="width:200px;display:none">Ibrahim M Conteh</td>
+
+	                                        	<td style="width:200px;display:none"></td>
+
+
+
+												<td><font color="green">Samuel A. Anang</font></td>
+												<td><font color="red">Not Assigned</font></td>
+
+												<td>SILLAH</td>
+
+												<td>BAU</td>
+
+												<td>Password</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIERRA LEONE COMMERCIAL BANK</td>
+
+												<td><font color="red">-</font></td>
+
+
+
+														<td><font color="green">RESOLVED</font></td>
+
+                                                            <td style="width:200px;display:none">Advise/Education</td>
+															<td style="width:200px;display:none">Advice on how to reset customer.</td>
+
+															<td style="width:200px;display:none">2023-03-14 17:08:27</td>
+
+															<td style="width:200px;display:none">The customer was setup on the Mobile App and he changed password the system still displayed wrong password;
+Customers details
+Account:942795
+Customer ID: Sala488480</td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 8 </td>
+
+												<td style="width:150px;">2023-03-14 10:11:11</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007718');"><u style="color:blue;width:100px;">IN00007718</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">ATM ACQURING</td>
+
+	                                        	<td style="width:200px;display:none">We have observed that the ATM  Acquiring process is good with the correct corresponding accounts entries. During the 19th January to the 7 March 2023, there were some transactions that didn	 go through the Cash in ATM account which has made it impossible for the ATM to balance. I have attached a report that will assistance you in doing the needful.</td>
+
+	                                        	<td style="width:200px;display:none">E BANKING MANAGER</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Naa Adoley : Hello Mobile Solutions, for your attention.  [Date Posted] :2023-03-14 11:53:38</td>
+
+
+
+												<td><font color="green">Daniel Nii Ayi Hammond</font></td>
+												<td><font color="green">Mobile Solutions</font></td>
+
+												<td>Ralp Taylor Smith</td>
+
+												<td>BAU</td>
+
+												<td>Back Office</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>Rokel Commercial Bank</td>
+
+												<td><font color="red">-</font></td>
+
+
+
+														<td><font color="green">RESOLVED</font></td>
+
+                                                            <td style="width:200px;display:none">Advise/Education</td>
+															<td style="width:200px;display:none">The Correspondence Account - ATM Acquiring and Commision Account - ATM Acquiring has been properly set up in x100.</td>
+
+															<td style="width:200px;display:none">2023-03-14 15:42:28</td>
+
+															<td style="width:200px;display:none">We have observed that the ATM  Acquiring process is good with the correct corresponding accounts entries. During the 19th January to the 7 March 2023, there were some transactions that didn	 go through the Cash in ATM account which has made it impossible for the ATM to balance. I have attached a report that will assistance you in doing the needful.</td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 9 </td>
+
+												<td style="width:150px;">2023-03-14 09:58:34</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007717');"><u style="color:blue;width:100px;">IN00007717</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">RESOLUTION TYPE IN EXCEL EXTRACT.</td>
+
+	                                        	<td style="width:200px;display:none">Add the resolution type to the excel as a column in the excel file that has been spooled.</td>
+
+	                                        	<td style="width:200px;display:none">Joshua Amarfio</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Nii Ayi : for your  attention  [Date Posted] :2023-03-14 17:05:06  ********COMMENT 2 ***** Reply From SAMUEL : Joshua . have a look at this request.  [Date Posted] :2023-03-14 17:21:16  ********COMMENT 3 ***** Reply From Helpdesk : completed on the 195 enivronment, will be implemented on the live environment asap after the change has been raised.  [Date Posted] :2023-03-15 08:06:28</td>
+
+
+
+												<td><font color="green">Joshua Armarfio</font></td>
+												<td><font color="green">Enterprise Solutions</font></td>
+
+												<td>Union Issues Management Team</td>
+
+												<td>BAU</td>
+
+												<td>Others</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>Union System Global</td>
+
+												<td><font color="red">-</font></td>
+
+
+
+														<td><font color="green">RESOLVED</font></td>
+
+                                                            <td style="width:200px;display:none">Request Met</td>
+															<td style="width:200px;display:none">The code was added and can now be seen in the excel extract.</td>
+
+															<td style="width:200px;display:none">2023-03-15 21:50:32</td>
+
+															<td style="width:200px;display:none">Add the resolution type to the excel as a column in the excel file that has been spooled.</td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 10 </td>
+
+												<td style="width:150px;">2023-03-13 16:23:22</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007714');"><u style="color:blue;width:100px;">IN00007714</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">LOAN REPAYMENT DID NOT TAKE EFFECT ON AN ACCOUNT NAMED (RELIABLE SECURITY SERVICE) ON THE DATE IT WAS DUE TO TAKE EFFECT.</td>
+
+	                                        	<td style="width:200px;display:none">Loan repayment did not take effect on an account named (Reliable Security Service) on the date it was due to take effect.</td>
+
+	                                        	<td style="width:200px;display:none">Eugene Quaye</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Samuel Adjetey : Please assist  [Date Posted] :2023-03-14 07:07:49</td>
+
+
+
+												<td><font color="green">Stanley Okyere-Agyei</font></td>
+												<td><font color="green">Credits</font></td>
+
+												<td>Robert Williams</td>
+
+												<td>BAU</td>
+
+												<td>Loans</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIB Bank Liberia</td>
+
+												<td><font color="red">-</font></td>
+
+
+
+														<td><font color="green">RESOLVED</font></td>
+
+                                                            <td style="width:200px;display:none">Advise/Education</td>
+															<td style="width:200px;display:none">1.According to schedule, repayment was supposed to take effect on 25th Jan and 25th February.
+2.The balance on the account on those days were 100.27 and 100.84.
+3.Minimum Balance on account is 100.
+4.There was not enough money on the scheduled date.
+5.Repayment happened on 1st February and 13th March after account was credited with funds.
+6.Penalties were also charged due to the above reason.</td>
+
+															<td style="width:200px;display:none">2023-03-14 10:36:46</td>
+
+															<td style="width:200px;display:none">Loan repayment did not take effect on an account named (Reliable Security Service) on the date it was due to take effect.</td>
+
+	                                        </tr></table>

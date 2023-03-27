@@ -1,9 +1,8 @@
 import { useState } from "react";
 import { ProSidebar, Menu, MenuItem } from "react-pro-sidebar";
-import "react-pro-sidebar/dist/css/styles.css";
-// import 'react-pro-sidebar/dist/css/styles.css';
 import {Box, IconButton, Typography, useTheme} from '@mui/material';
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
+import "react-pro-sidebar/dist/css/styles.css";
 import { tokens } from "../../theme";
 import HomeOutlinedIcon from "@mui/icons-material/HomeOutlined";
 import PeopleOutlinedIcon from "@mui/icons-material/PeopleOutlined";
@@ -17,9 +16,6 @@ import TimelineOutlinedIcon from "@mui/icons-material/TimelineOutlined";
 import BarChartOutlinedIcon from "@mui/icons-material/BarChartOutlined";
 import MenuOutlinedIcon from "@mui/icons-material/MenuOutlined";
 import MapOutlinedIcon from "@mui/icons-material/MapOutlined";
-import { Link } from "react-router-dom";
-// import LightModeOutLinedIcon from "@mui/icons-material/LightModeOutlined";
-// import LightModeOutLinedIcon from "@mui/icons-material/LightModeOutlined";
 
 const Item = ({title, to, icon, selected, setSelected }) => {
     const theme = useTheme();
@@ -34,8 +30,8 @@ const Item = ({title, to, icon, selected, setSelected }) => {
             <Typography>{title}</Typography>
             <Link to={to}/>
         </MenuItem>
-    )
-}
+    );
+};
 
 const Sidebar = () => {
     const theme = useTheme();
@@ -99,7 +95,7 @@ const Sidebar = () => {
                             alt="profit-user"
                             width="100px"
                             height="100px"
-                            src={`../../assets/user.png`}
+                            src={`../../assets/user_.png`}
                             style={{cursor: "pointer", borderRadius:"50%"}}
                         />
                   </Box>
@@ -110,7 +106,7 @@ const Sidebar = () => {
                     color={colors.grey[100]} 
                     fontWeight="bold" 
                     sx={{ m: "10px 0 0 0"}}>
-                        Ed Roh
+                        Joshua Amarfio
                     </Typography>
                     <Typography variant="h5" color={colors.greenAccent[500]}>
                         VP Fancy Admin
@@ -170,7 +166,7 @@ const Sidebar = () => {
 
                     <Item 
                         title="Profile Form"
-                        to="/person"
+                        to="/form"
                         icon={<PersonOutlinedIcon/>}
                         selected = {selected}
                         setSelected = {setSelected}

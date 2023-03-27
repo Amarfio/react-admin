@@ -1,0 +1,619 @@
+<table border='2px'><tr bgcolor='#87AFC6'><th class="sorting_asc" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Id: activate to sort column descending" style="width: 12px;">Id</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Date_Logged: activate to sort column ascending" style="width: 100px;">Date_Logged</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Ticket_Id: activate to sort column ascending" style="width: 60px;">Ticket_Id</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Incident_Summary: activate to sort column ascending" style="width: 140px;">Incident_Summary</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Incident_Details: activate to sort column ascending">Incident_Details</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Person_Affected: activate to sort column ascending">Person_Affected</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Comment: activate to sort column ascending">Comment</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Assigned_To: activate to sort column ascending" style="width: 79px;">Assigned_To</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Dept Assigned To: activate to sort column ascending" style="width: 57px;">Dept Assigned To</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Logged By: activate to sort column ascending" style="width: 46px;">Logged By</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Bau/Project: activate to sort column ascending" style="width: 73px;">Bau/Project</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Affected_Area: activate to sort column ascending" style="width: 86px;">Affected_Area</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Severity: activate to sort column ascending" style="width: 49px;">Severity</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Client_Name: activate to sort column ascending" style="width: 78px;">Client_Name</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Days_Pending: activate to sort column ascending" style="width: 87px;">Days_Pending</th><th class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Status: activate to sort column ascending" style="width: 50px;">Status</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Resolution_Type: activate to sort column ascending">Resolution_Type</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Resolution_Details: activate to sort column ascending">Resolution_Details</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Resolved_Date: activate to sort column ascending">Resolved_Date</th><th style="display: none; width: 0px;" class="sorting" tabindex="0" aria-controls="incident_table" rowspan="1" colspan="1" aria-label="Root_Cause: activate to sort column ascending">Root_Cause</th></tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 1 </td>
+
+												<td style="width:150px;">2023-03-15 16:09:33</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007735');"><u style="color:blue;width:100px;">IN00007735</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">INTEREST</td>
+
+	                                        	<td style="width:200px;display:none">the customer has pre-liquidate his loan but his interest is still applying every month</td>
+
+	                                        	<td style="width:200px;display:none">1</td>
+
+	                                        	<td style="width:200px;display:none"></td>
+
+
+
+												<td><font color="green">Nii Ayi Welbeck</font></td>
+												<td><font color="red">Not Assigned</font></td>
+
+												<td>Ralp Taylor Smith</td>
+
+												<td>BAU</td>
+
+												<td>Back Office</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>Rokel Commercial Bank</td>
+
+												<td><font color="blue">0 days</font></td>
+
+
+
+														<td><font color="brown">ASSIGNED</font></td>
+
+                                                            <td style="width:200px;display:none"></td>
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 2 </td>
+
+												<td style="width:150px;">2023-03-15 15:59:12</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007734');"><u style="color:blue;width:100px;">IN00007734</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">ACCESS CREATION ON ISSUE LOGGER</td>
+
+	                                        	<td style="width:200px;display:none">Please create an access for Emmanuel Okai (New E-banking staff). Email address: oenayi@bestpointgh.com. Phone number: 0548115491.</td>
+
+	                                        	<td style="width:200px;display:none">Daniel</td>
+
+	                                        	<td style="width:200px;display:none"></td>
+
+
+
+												<td><font color="green">Nii Ayi Welbeck</font></td>
+												<td><font color="red">Not Assigned</font></td>
+
+												<td>DANIEL KORANTENG</td>
+
+												<td>BAU</td>
+
+												<td>Others</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>Best Point</td>
+
+												<td><font color="blue">0 days</font></td>
+
+
+
+														<td><font color="brown">ASSIGNED</font></td>
+
+                                                            <td style="width:200px;display:none"></td>
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 3 </td>
+
+												<td style="width:150px;">2023-03-15 15:27:25</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007733');"><u style="color:blue;width:100px;">IN00007733</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">ERROR IN DEALING WITH ITAS</td>
+
+	                                        	<td style="width:200px;display:none">Good afternoon team, we noticed error message in dealing with ITAS
+
+AMT NLE6,048
+TIN1000443736
+PRN 00000000142926</td>
+
+	                                        	<td style="width:200px;display:none">Amadu Dumbuya</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Naa Adoley : Hello Mobile Solutions, FYA  [Date Posted] :2023-03-15 15:47:54</td>
+
+
+
+												<td><font color="green">Daniel Nii Ayi Hammond</font></td>
+												<td><font color="green">Mobile Solutions</font></td>
+
+												<td>SILLAH</td>
+
+												<td>BAU</td>
+
+												<td>Others</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIERRA LEONE COMMERCIAL BANK</td>
+
+												<td><font color="blue">0 days</font></td>
+
+
+
+														<td><font color="brown">ASSIGNED</font></td>
+
+                                                            <td style="width:200px;display:none"></td>
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 4 </td>
+
+												<td style="width:150px;">2023-03-15 14:43:53</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007732');"><u style="color:blue;width:100px;">IN00007732</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">CHAALENGE TO APPROVE INTERNET MOBILE APP REQUEST</td>
+
+	                                        	<td style="width:200px;display:none">It has come to our notice that we are having challenge to approve request for internet mobile app especially for new user. See customer details: CUSTOMER NAME: MOHAMED KAMARA
+CUSTOMER ACCOUNT NUMBER: 003001127445120155
+REQUEST DATE: 14TH MARCH,2023</td>
+
+	                                        	<td style="width:200px;display:none">Clifford Turner</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Naa Adoley : Hello Mobile Solutions, for your attention.  [Date Posted] :2023-03-15 15:52:07</td>
+
+
+
+												<td><font color="green">Daniel Nii Ayi Hammond</font></td>
+												<td><font color="green">Mobile Solutions</font></td>
+
+												<td>SILLAH</td>
+
+												<td>BAU</td>
+
+												<td>Others</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIERRA LEONE COMMERCIAL BANK</td>
+
+												<td><font color="blue">0 days</font></td>
+
+
+
+														<td><font color="brown">ASSIGNED</font></td>
+
+                                                            <td style="width:200px;display:none"></td>
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 5 </td>
+
+												<td style="width:150px;">2023-03-15 13:18:43</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007731');"><u style="color:blue;width:100px;">IN00007731</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">MISSING BANK STATEMENT: SIERRA LEONE COMMERCIAL BANK</td>
+
+	                                        	<td style="width:200px;display:none">We still haven	 missed the bank statements of Tuesday 07/03/2023 and Wednesday 08/03/2023 for account 003003311531090137.
+
+&nbsp;</td>
+
+	                                        	<td style="width:200px;display:none">Edword Kamara</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Naa Adoley : Hello Operations Dept, for your attention.  [Date Posted] :2023-03-15 15:53:50  ********COMMENT 2 ***** Reply From Samuel Adjetey : Daily generated MT940 statement did not go through on the days indicated in the issue description above. Please assist  [Date Posted] :2023-03-15 16:26:32</td>
+
+
+
+												<td><font color="green">ISAAC WILSON</font></td>
+												<td><font color="green">Operations</font></td>
+
+												<td>Mr Momoh Konneh</td>
+
+												<td>BAU</td>
+
+												<td>Back Office</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIERRA LEONE COMMERCIAL BANK</td>
+
+												<td><font color="blue">0 days</font></td>
+
+
+
+														<td><font color="brown">ASSIGNED</font></td>
+
+                                                            <td style="width:200px;display:none"></td>
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 6 </td>
+
+												<td style="width:150px;">2023-03-15 13:01:53</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007730');"><u style="color:blue;width:100px;">IN00007730</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">E-MAIL GATEWAY ERROR</td>
+
+	                                        	<td style="width:200px;display:none">The Email Gateway is unable to deliver emails to both Best Point and third party email addresses.
+Error:  -
+Error Could not convert socket to TLS EBADU@BESTPOINTGH.COM</td>
+
+	                                        	<td style="width:200px;display:none">DANIEL</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Naa Adoley : Hello Mobile Solutions, for your attention.  [Date Posted] :2023-03-15 15:56:12</td>
+
+
+
+												<td><font color="green">Daniel Nii Ayi Hammond</font></td>
+												<td><font color="green">Mobile Solutions</font></td>
+
+												<td>DANIEL KORANTENG</td>
+
+												<td>BAU</td>
+
+												<td>Unable To Recieve Alerts</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>Best Point</td>
+
+												<td><font color="blue">0 days</font></td>
+
+
+
+														<td><font color="brown">ASSIGNED</font></td>
+
+                                                            <td style="width:200px;display:none"></td>
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 7 </td>
+
+												<td style="width:150px;">2023-03-15 10:59:34</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007728');"><u style="color:blue;width:100px;">IN00007728</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">PASSWORD RESET MAIL ISSUE</td>
+
+	                                        	<td style="width:200px;display:none">Recently users do not get password reset mails when we reset their passwords. We resort to clearing their E-mail address and writing it manually for them.
+we therefore request you take a look at it for us.</td>
+
+	                                        	<td style="width:200px;display:none">Richard Anane</td>
+
+	                                        	<td style="width:200px;display:none"></td>
+
+
+
+												<td><font color="green">Nii Ayi Welbeck</font></td>
+												<td><font color="red">Not Assigned</font></td>
+
+												<td>Richard Anane</td>
+
+												<td>BAU</td>
+
+												<td>Password</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>Best Point</td>
+
+												<td><font color="blue">0 days</font></td>
+
+
+
+														<td><font color="brown">ASSIGNED</font></td>
+
+                                                            <td style="width:200px;display:none"></td>
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 8 </td>
+
+												<td style="width:150px;">2023-03-15 10:00:18</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('PJ00007727');"><u style="color:blue;width:100px;">PJ00007727</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">UAT SCRIPT - INSTANT ISSUANCE FOR VISA SUPPLEMENTARY CARDS</td>
+
+	                                        	<td style="width:200px;display:none">We discussed, kindly enable the below feature under ATM Card on X100;
+
+1.	Block Card on X100 – The block card option should be activated in the live environment on X100.
+2.	To push failed card requests on X100 to StarCardMan for the card production process.</td>
+
+	                                        	<td style="width:200px;display:none">Victor Sarty Kanu</td>
+
+	                                        	<td style="width:200px;display:none"></td>
+
+
+
+												<td><font color="green">Nii Ayi Welbeck</font></td>
+												<td><font color="red">Not Assigned</font></td>
+
+												<td>Mohamed Bah</td>
+
+												<td>PROJECT</td>
+
+												<td>Others</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>Rokel Commercial Bank</td>
+
+												<td><font color="blue">0 days</font></td>
+
+
+
+														<td><font color="brown">ASSIGNED</font></td>
+
+                                                            <td style="width:200px;display:none"></td>
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 9 </td>
+
+												<td style="width:150px;">2023-03-15 07:46:49</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007726');"><u style="color:blue;width:100px;">IN00007726</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">SMS CHARGE FOR SERVICE ONBOARDING NOT DEDUCTING</td>
+
+	                                        	<td style="width:200px;display:none">Currently SMS initial charge of GHC 2 is not being charge upon finally approval by the Operation Officers after a request has been made by the CSO.  The deduction stopped in March 2023. Attached are sample of service onboarding charges as at Dec 2022 through to March 2023.
+
+Kindly note this issue is not the monthly charges of GHC3 but the initial cost of the SMS service or onboarding.
+
+Please this is affecting our income lines hence your swift attention is required.</td>
+
+	                                        	<td style="width:200px;display:none">DANIEL</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From DANIEL : Issue Resolved by Welbeck. Thank you  [Date Posted] :2023-03-15 09:22:05  ********COMMENT 2 ***** Reply From Naa Adoley : Hello Issues Management, FYA.  [Date Posted] :2023-03-15 16:01:13</td>
+
+
+
+												<td><font color="green">Nii Ayi Welbeck</font></td>
+												<td><font color="green">Issues management</font></td>
+
+												<td>DANIEL KORANTENG</td>
+
+												<td>BAU</td>
+
+												<td>Others</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>Best Point</td>
+
+												<td><font color="blue">0 days</font></td>
+
+
+
+														<td><font color="brown">ASSIGNED</font></td>
+
+                                                            <td style="width:200px;display:none"></td>
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+	                                        </tr>
+
+												
+
+												
+
+	                                        	<!--td >  </td-->
+
+	                                        	<td class="sorting_1"> 10 </td>
+
+												<td style="width:150px;">2023-03-14 23:00:57</td>
+
+	                                        	<td><a href="#" data-toggle="modal" data-target="#detail_incident" onclick="get_details('IN00007725');"><u style="color:blue;width:100px;">IN00007725</u></a></td>
+
+
+
+	                                        	<td style="width:200px;">POD NOT RUNNING</td>
+
+	                                        	<td style="width:200px;display:none">Hello  team, kindly help out - we observe that POD that POD is not running after going through the due procedure</td>
+
+	                                        	<td style="width:200px;display:none">EOD Team</td>
+
+	                                        	<td style="width:200px;display:none">  ********COMMENT 1 ***** Reply From Naa Adoley : Hello Operations Dept, for your attentions.  [Date Posted] :2023-03-15 16:02:35</td>
+
+
+
+												<td><font color="green">ISAAC WILSON</font></td>
+												<td><font color="green">Operations</font></td>
+
+												<td>TAMBA MOHAMED SANDY</td>
+
+												<td>BAU</td>
+
+												<td>End of Day</td>
+
+
+
+
+
+												<td>3</td>
+
+
+
+
+
+	                                        	<td>SIERRA LEONE COMMERCIAL BANK</td>
+
+												<td><font color="blue">1 days</font></td>
+
+
+
+														<td><font color="brown">ASSIGNED</font></td>
+
+                                                            <td style="width:200px;display:none"></td>
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+															<td style="width:200px;display:none"></td>
+
+	                                        </tr></table>
